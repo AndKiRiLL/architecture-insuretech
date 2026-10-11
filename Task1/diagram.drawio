@@ -1,0 +1,1509 @@
+<mxfile host="app.diagrams.net" pages="6">
+  <diagram name="01 — Основная площадка" id="qP6Bjgo19KLhMhvSlRz9">
+    <mxGraphModel dx="3323" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1640" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eDO2t3c763jAlkMWx9W4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="65" width="1320" x="1240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-2" parent="eDO2t3c763jAlkMWx9W4-1" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="InsureTech · технологическая архитектура to-be" vertex="1">
+          <mxGeometry height="24" width="1320" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-3" parent="eDO2t3c763jAlkMWx9W4-1" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Доступность 99,9% · RTO ≤ 45 мин · RPO ≤ 15 мин" vertex="1">
+          <mxGeometry height="24" width="1320" y="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="105" width="280" x="1240" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-5" parent="eDO2t3c763jAlkMWx9W4-4" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Браузер / API-партнёр" vertex="1">
+          <mxGeometry height="24" width="280" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-6" parent="eDO2t3c763jAlkMWx9W4-4" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="HTTPS" vertex="1">
+          <mxGeometry height="24" width="280" y="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="380" x="1640" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-8" parent="eDO2t3c763jAlkMWx9W4-7" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMEMyNC44MzY2IDAgMzIgNy4xNjM0NCAzMiAxNkMzMiAyNC44MzY2IDI0LjgzNjYgMzIgMTYgMzJDNy4xNjM0NCAzMiAwIDI0LjgzNjYgMCAxNloiIGZpbGw9IiM1MjgyRkYiLz4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTIuMDA5OSAxN0gxOC45OTE5QzE4Ljg2MTkgMjEuMDY4IDE3LjE4MTkgMjQuMDAxIDE1LjUwMTkgMjQuMDAxQzEzLjgyNDkgMjQuMDAxIDEyLjEzODkgMjEuMDgxIDEyLjAwODkgMTcuMDAxTDEyLjAwOTkgMTdaTTguMDEyOTQgMTdIMTEuMDA4OUMxMS4wOTA5IDE5LjYyNyAxMS44MDg5IDIyLjA4MSAxMi45NjI5IDIzLjU2MUMxMS41OTAyIDIzLjA2NiAxMC4zOTEyIDIyLjE4MjEgOS41MTIyNyAyMS4wMTcyQzguNjMzMzEgMTkuODUyNCA4LjExMjM1IDE4LjQ1NjkgOC4wMTI5NCAxNy4wMDFWMTdaTTE5Ljk5MTkgMTdIMjIuOTgxOUMyMi43ODE5IDIwLjAyNyAyMC43Nzk5IDIyLjU2MSAxOC4wMzk5IDIzLjU2MUMxOS4xOTI5IDIyLjA2OCAxOS45MDk5IDE5LjYwMSAxOS45OTE5IDE3LjAwMVYxN1pNMTIuOTYxOSA5LjQzOTAyQzExLjgwNjkgMTAuOTE5IDExLjA5MDkgMTMuMzg2IDExLjAwODkgMTZIOC4wMTI5NEM4LjExMDE2IDE0LjU0MzQgOC42MzAyOCAxMy4xNDY4IDkuNTA5NTMgMTEuOTgxNEMxMC4zODg4IDEwLjgxNTkgMTEuNTg5IDkuOTMyNCAxMi45NjI5IDkuNDM5MDJIMTIuOTYxOVpNMTUuNDc5OSA4Ljk5OTAySDE1LjUyNjlDMTUuNjY3OSA4Ljk5OTAyIDE1LjgxMDkgOS4wMTIwMiAxNS45NTE5IDkuMDY2MDJDMTUuMzI4MyA5LjkxNjMyIDE0Ljk5NDYgMTAuOTQ0NiAxNC45OTk5IDExLjk5OUMxNC45OTk5IDEzLjYyNiAxNS43ODQ5IDE1LjA3OSAxNi45OTk5IDE2SDEyLjAwOTlDMTIuMTM4OSAxMS45MiAxMy44MTY5IDguOTk5MDIgMTUuNDc5OSA4Ljk5OTAyWk0xNS45OTk5IDExLjk5OUMxNS45OTk5IDkuNzg2MDIgMTcuNzkxOSA3Ljk5OTAyIDE5Ljk5OTkgNy45OTkwMkMyMi4yMDc5IDcuOTk5MDIgMjMuOTk5OSA5Ljc4NjAyIDIzLjk5OTkgMTEuOTk5QzIzLjk5OTkgMTQuMiAyMi4yMDc5IDE2IDE5Ljk5OTkgMTZDMTcuNzkxOSAxNiAxNS45OTk5IDE0LjIgMTUuOTk5OSAxMlYxMS45OTlaTTE5Ljg1MjkgMTMuMTczTDIxLjg1MjkgMTEuMTczQzIxLjk0NjcgMTEuMDc5MyAyMS45OTkzIDEwLjk1MjEgMjEuOTk5MyAxMC44MTk1QzIxLjk5OTMgMTAuNjg2OSAyMS45NDY3IDEwLjU1OTggMjEuODUyOSAxMC40NjZDMjEuODA3IDEwLjQxODYgMjEuNzUyIDEwLjM4MDkgMjEuNjkxMSAxMC4zNTUyQzIxLjYzMDMgMTAuMzI5NCAyMS41NjUgMTAuMzE2MSAyMS40OTg5IDEwLjMxNjFDMjEuNDMyOSAxMC4zMTYxIDIxLjM2NzUgMTAuMzI5NCAyMS4zMDY3IDEwLjM1NTJDMjEuMjQ1OSAxMC4zODA5IDIxLjE5MDkgMTAuNDE4NiAyMS4xNDQ5IDEwLjQ2NkwxOS40OTk5IDEyLjEwNkwxOC44NTI5IDExLjQ2NkMxOC44MDcgMTEuNDE4NiAxOC43NTIgMTEuMzgwOSAxOC42OTExIDExLjM1NTJDMTguNjMwMyAxMS4zMjk0IDE4LjU2NSAxMS4zMTYxIDE4LjQ5ODkgMTEuMzE2MUMxOC40MzI5IDExLjMxNjEgMTguMzY3NSAxMS4zMjk0IDE4LjMwNjcgMTEuMzU1MkMxOC4yNDU5IDExLjM4MDkgMTguMTkwOSAxMS40MTg2IDE4LjE0NDkgMTEuNDY2QzE4LjA1MTIgMTEuNTU5OCAxNy45OTg1IDExLjY4NjkgMTcuOTk4NSAxMS44MTk1QzE3Ljk5ODUgMTEuOTUyMSAxOC4wNTEyIDEyLjA3OTMgMTguMTQ0OSAxMi4xNzNMMTkuMTQ0OSAxMy4xNzNDMTkuMjQwOCAxMy4yNjMxIDE5LjM2NzQgMTMuMzEzMiAxOS40OTg5IDEzLjMxMzJDMTkuNjMwNSAxMy4zMTMyIDE5Ljc1NzEgMTMuMjYzMSAxOS44NTI5IDEzLjE3M1oiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="174" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-9" parent="eDO2t3c763jAlkMWx9W4-7" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Yandex Cloud CDN" vertex="1">
+          <mxGeometry height="24" width="380" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-10" parent="eDO2t3c763jAlkMWx9W4-7" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Статика с ближайшего edge" vertex="1">
+          <mxGeometry height="24" width="380" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-11" parent="eDO2t3c763jAlkMWx9W4-7" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="ПДн и API не кэшируются" vertex="1">
+          <mxGeometry height="24" width="380" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="105" width="340" x="2220" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-13" parent="eDO2t3c763jAlkMWx9W4-12" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMiA4QzIyIDcuNCAyMS42IDcgMjEgN0gxMUMxMC40IDcgMTAgNy40IDEwIDhWMTBIMjJWOFpNMjMgMTJDMjMgMTEuNCAyMi42IDExIDIyIDExSDEwQzkuNCAxMSA5IDExLjQgOSAxMlYxNEgyM1YxMlpNOSAxNUgyM0MyMy41IDE1IDI0IDE1LjQgMjQgMTZWMjJDMjQgMjIuNiAyMy42IDIzIDIzIDIzSDlDOC40IDIzIDggMjIuNiA4IDIyVjE2QzggMTUuNCA4LjQgMTUgOSAxNVpNMTQgMjBIMThDMTguNSAyMCAxOSAxOS41IDE5IDE5QzE5IDE4LjQgMTguNiAxOCAxOCAxOEgxNEMxMy40IDE4IDEzIDE4LjQgMTMgMTlDMTMgMTkuNiAxMy40IDIwIDE0IDIwWiIgZmlsbD0id2hpdGUiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="154" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-14" parent="eDO2t3c763jAlkMWx9W4-12" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Object Storage" vertex="1">
+          <mxGeometry height="24" width="340" y="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-15" parent="eDO2t3c763jAlkMWx9W4-12" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="React: HTML / JS / CSS" vertex="1">
+          <mxGeometry height="24" width="340" y="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="110" width="520" x="1640" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-17" parent="eDO2t3c763jAlkMWx9W4-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Application Load Balancer" vertex="1">
+          <mxGeometry height="24" width="520" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-18" parent="eDO2t3c763jAlkMWx9W4-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="HTTPS → backend в 3 зонах" vertex="1">
+          <mxGeometry height="24" width="520" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-19" parent="eDO2t3c763jAlkMWx9W4-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Health: GET /readyz, каждые 5 с" vertex="1">
+          <mxGeometry height="24" width="520" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-20" parent="eDO2t3c763jAlkMWx9W4-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Failover: исключает unhealthy backend" vertex="1">
+          <mxGeometry height="24" width="520" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-21" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="450" width="400" x="1240" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-22" parent="eDO2t3c763jAlkMWx9W4-21" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Зона ru-central1-a" vertex="1">
+          <mxGeometry height="24" width="400" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="135" width="350" x="1265" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-24" parent="eDO2t3c763jAlkMWx9W4-23" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-25" parent="eDO2t3c763jAlkMWx9W4-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Kubernetes · InsureTech" vertex="1">
+          <mxGeometry height="24" width="350" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-26" parent="eDO2t3c763jAlkMWx9W4-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Реплики приложений + Ingress" vertex="1">
+          <mxGeometry height="24" width="350" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-27" parent="eDO2t3c763jAlkMWx9W4-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Readiness / liveness probes" vertex="1">
+          <mxGeometry height="24" width="350" y="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-28" parent="eDO2t3c763jAlkMWx9W4-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Service → готовые pod" vertex="1">
+          <mxGeometry height="24" width="350" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="350" x="1265" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-30" parent="eDO2t3c763jAlkMWx9W4-29" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyA4SDE4QzIxLjMgOCAyNCAxMC43IDI0IDE0VjI0SDIwVjIwSDIyVjE5SDE4LjZDMTUuNSAxOSAxMyAxNi41IDEzIDEzLjRWOFpNMTkgMTdIMjFWMTVIMTlWMTdaTTEyIDkuMDk5OThWMTMuNEMxMiAxNi44IDE0LjYgMTkuNyAxOCAyMC4xVjIwLjZDMTggMjIgMTUuOCAyMy4xIDEzIDIzLjFDMTAuMiAyMy4xIDggMjIgOCAyMC42VjExLjZDOCAxMC4zIDkuNyA5LjI5OTk4IDEyIDkuMDk5OThaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-31" parent="eDO2t3c763jAlkMWx9W4-29" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Хост Managed PostgreSQL" vertex="1">
+          <mxGeometry height="24" width="350" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-32" parent="eDO2t3c763jAlkMWx9W4-29" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Primary*" vertex="1">
+          <mxGeometry height="24" width="350" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-33" parent="eDO2t3c763jAlkMWx9W4-29" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Отдельные схемы сервисов" vertex="1">
+          <mxGeometry height="24" width="350" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-34" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.11538461538461539;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-23" value="/readyz + HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="825" />
+              <mxPoint x="1440" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-35" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="450" width="400" x="1700" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-36" parent="eDO2t3c763jAlkMWx9W4-35" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Зона ru-central1-b" vertex="1">
+          <mxGeometry height="24" width="400" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="135" width="350" x="1725" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-38" parent="eDO2t3c763jAlkMWx9W4-37" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-39" parent="eDO2t3c763jAlkMWx9W4-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Kubernetes · InsureTech" vertex="1">
+          <mxGeometry height="24" width="350" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-40" parent="eDO2t3c763jAlkMWx9W4-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Реплики приложений + Ingress" vertex="1">
+          <mxGeometry height="24" width="350" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-41" parent="eDO2t3c763jAlkMWx9W4-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Readiness / liveness probes" vertex="1">
+          <mxGeometry height="24" width="350" y="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-42" parent="eDO2t3c763jAlkMWx9W4-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Service → готовые pod" vertex="1">
+          <mxGeometry height="24" width="350" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="350" x="1725" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-44" parent="eDO2t3c763jAlkMWx9W4-43" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyA4SDE4QzIxLjMgOCAyNCAxMC43IDI0IDE0VjI0SDIwVjIwSDIyVjE5SDE4LjZDMTUuNSAxOSAxMyAxNi41IDEzIDEzLjRWOFpNMTkgMTdIMjFWMTVIMTlWMTdaTTEyIDkuMDk5OThWMTMuNEMxMiAxNi44IDE0LjYgMTkuNyAxOCAyMC4xVjIwLjZDMTggMjIgMTUuOCAyMy4xIDEzIDIzLjFDMTAuMiAyMy4xIDggMjIgOCAyMC42VjExLjZDOCAxMC4zIDkuNyA5LjI5OTk4IDEyIDkuMDk5OThaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-45" parent="eDO2t3c763jAlkMWx9W4-43" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Хост Managed PostgreSQL" vertex="1">
+          <mxGeometry height="24" width="350" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-46" parent="eDO2t3c763jAlkMWx9W4-43" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Standby" vertex="1">
+          <mxGeometry height="24" width="350" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-47" parent="eDO2t3c763jAlkMWx9W4-43" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Отдельные схемы сервисов" vertex="1">
+          <mxGeometry height="24" width="350" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-48" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-37" value="/readyz + HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="825" />
+              <mxPoint x="1900" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-49" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="450" width="400" x="2160" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-50" parent="eDO2t3c763jAlkMWx9W4-49" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Зона ru-central1-d" vertex="1">
+          <mxGeometry height="24" width="400" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="135" width="350" x="2185" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-52" parent="eDO2t3c763jAlkMWx9W4-51" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-53" parent="eDO2t3c763jAlkMWx9W4-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Kubernetes · InsureTech" vertex="1">
+          <mxGeometry height="24" width="350" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-54" parent="eDO2t3c763jAlkMWx9W4-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Реплики приложений + Ingress" vertex="1">
+          <mxGeometry height="24" width="350" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-55" parent="eDO2t3c763jAlkMWx9W4-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Readiness / liveness probes" vertex="1">
+          <mxGeometry height="24" width="350" y="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-56" parent="eDO2t3c763jAlkMWx9W4-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Service → готовые pod" vertex="1">
+          <mxGeometry height="24" width="350" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="350" x="2185" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-58" parent="eDO2t3c763jAlkMWx9W4-57" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyA4SDE4QzIxLjMgOCAyNCAxMC43IDI0IDE0VjI0SDIwVjIwSDIyVjE5SDE4LjZDMTUuNSAxOSAxMyAxNi41IDEzIDEzLjRWOFpNMTkgMTdIMjFWMTVIMTlWMTdaTTEyIDkuMDk5OThWMTMuNEMxMiAxNi44IDE0LjYgMTkuNyAxOCAyMC4xVjIwLjZDMTggMjIgMTUuOCAyMy4xIDEzIDIzLjFDMTAuMiAyMy4xIDggMjIgOCAyMC42VjExLjZDOCAxMC4zIDkuNyA5LjI5OTk4IDEyIDkuMDk5OThaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-59" parent="eDO2t3c763jAlkMWx9W4-57" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Хост Managed PostgreSQL" vertex="1">
+          <mxGeometry height="24" width="350" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-60" parent="eDO2t3c763jAlkMWx9W4-57" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Standby" vertex="1">
+          <mxGeometry height="24" width="350" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-61" parent="eDO2t3c763jAlkMWx9W4-57" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Отдельные схемы сервисов" vertex="1">
+          <mxGeometry height="24" width="350" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-62" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.8846153846153846;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-51" value="/readyz + HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2100" y="825" />
+              <mxPoint x="2360" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="40" width="1270" x="1265" y="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-64" parent="eDO2t3c763jAlkMWx9W4-63" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="SQL / TLS → единый writable endpoint БД; *primary автоматически переключается в здоровую зону" vertex="1">
+          <mxGeometry height="24" width="1270" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-65" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.1377952755905512;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-63" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-66" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-63" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-67" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.8622047244094488;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-63" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-68" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.1377952755905512;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-29" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-69" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.43478260869565216;exitPerimeter=0;entryX=0.0;entryY=0.43478260869565216;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-43" value="WAL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-70" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.8142857142857143;exitY=1.0;exitPerimeter=0;entryX=0.7285714285714285;entryY=1.0;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-57" value="WAL-репликация между зонами; контроль lag">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="1277" />
+              <mxPoint x="2440" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="175" width="400" x="1240" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-72" parent="eDO2t3c763jAlkMWx9W4-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Масштабирование и Kubernetes" vertex="1">
+          <mxGeometry height="24" width="400" y="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-73" parent="eDO2t3c763jAlkMWx9W4-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="App: горизонтально (replicas + HPA)" vertex="1">
+          <mxGeometry height="24" width="400" y="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-74" parent="eDO2t3c763jAlkMWx9W4-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="≥3 replicas; spread по зонам; PDB" vertex="1">
+          <mxGeometry height="24" width="400" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-75" parent="eDO2t3c763jAlkMWx9W4-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Резерв мощности на отказ зоны" vertex="1">
+          <mxGeometry height="24" width="400" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-76" parent="eDO2t3c763jAlkMWx9W4-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Один кластер: проще эксплуатация" vertex="1">
+          <mxGeometry height="24" width="400" y="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-77" parent="eDO2t3c763jAlkMWx9W4-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="HA control plane в трёх зонах" vertex="1">
+          <mxGeometry height="24" width="400" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="175" width="400" x="1700" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-79" parent="eDO2t3c763jAlkMWx9W4-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="БД: failover и восстановление" vertex="1">
+          <mxGeometry height="24" width="400" y="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-80" parent="eDO2t3c763jAlkMWx9W4-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Health: доступность БД + replica lag" vertex="1">
+          <mxGeometry height="24" width="400" y="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-81" parent="eDO2t3c763jAlkMWx9W4-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Ежедневный backup + WAL / PITR" vertex="1">
+          <mxGeometry height="24" width="400" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-82" parent="eDO2t3c763jAlkMWx9W4-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Backup вне узлов кластера БД" vertex="1">
+          <mxGeometry height="24" width="400" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-83" parent="eDO2t3c763jAlkMWx9W4-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="RPO: свежесть копии &lt;15 минут" vertex="1">
+          <mxGeometry height="24" width="400" y="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-84" parent="eDO2t3c763jAlkMWx9W4-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Auto failover; RTO проверить учениями" vertex="1">
+          <mxGeometry height="24" width="400" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="175" width="400" x="2160" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-86" parent="eDO2t3c763jAlkMWx9W4-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Решения по требованиям" vertex="1">
+          <mxGeometry height="24" width="400" y="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-87" parent="eDO2t3c763jAlkMWx9W4-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="БД: вертикально; без шардов (50 GB)" vertex="1">
+          <mxGeometry height="24" width="400" y="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-88" parent="eDO2t3c763jAlkMWx9W4-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="CDN сокращает региональные задержки" vertex="1">
+          <mxGeometry height="24" width="400" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-89" parent="eDO2t3c763jAlkMWx9W4-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Точное равенство задержек невозможно" vertex="1">
+          <mxGeometry height="24" width="400" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-90" parent="eDO2t3c763jAlkMWx9W4-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Цели проверяются отказом зоны" vertex="1">
+          <mxGeometry height="24" width="400" y="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-91" parent="eDO2t3c763jAlkMWx9W4-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="и восстановлением из backup" vertex="1">
+          <mxGeometry height="24" width="400" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="40" width="1320" x="1240" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-93" parent="eDO2t3c763jAlkMWx9W4-92" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Область отказоустойчивости: узел / зона доступности. Отказ всего региона требует отдельного DR-проекта." vertex="1">
+          <mxGeometry height="24" width="1320" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-94" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.47619047619047616;exitPerimeter=0;entryX=0.0;entryY=0.43478260869565216;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-7" value="HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-95" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.43478260869565216;exitPerimeter=0;entryX=0.0;entryY=0.47619047619047616;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-12" value="cache miss → origin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDO2t3c763jAlkMWx9W4-96" edge="1" parent="1" source="eDO2t3c763jAlkMWx9W4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" target="eDO2t3c763jAlkMWx9W4-16" value="API / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="02 — Резервная площадка и failover" id="u4WfU3zoECYbJ4L9ihmw">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="65" width="1520" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="title-text0" parent="title" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="InsureTech · отказ региона и восстановление" vertex="1">
+          <mxGeometry height="24" width="1520" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="title-text1" parent="title" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Резервная площадка в другом ЦОД РФ; постоянно работающий warm standby" vertex="1">
+          <mxGeometry height="24" width="1520" y="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="clients" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text0" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Браузер / B2B-клиент" vertex="1">
+          <mxGeometry height="24" width="360" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text1" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="API hostname остаётся прежним" vertex="1">
+          <mxGeometry height="24" width="360" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text2" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Idempotency-Key + retry с jitter" vertex="1">
+          <mxGeometry height="24" width="360" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="dns" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="560" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-icon" parent="dns" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAzMiAzMiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIj4mI3hhOzxyZWN0IGZpbGw9IiM1MjgyRkYiIHJ4PSIxNiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIi8+JiN4YTs8cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTggMjAuMDAyVjExSDEwLjE1QzExLjE3NSAxMSAxMS45MDcgMTEuMjI4IDEyLjM0MyAxMS42ODVDMTIuNzgxIDEyLjE0MyAxMyAxMi45MDcgMTMgMTMuOTc4VjE2LjQ5OEMxMy4wMDQgMTcuODUyIDEyLjgxMiAxOC43NzMgMTIuNDI1IDE5LjI2NEMxMi4wNCAxOS43NTQgMTEuMzExIDIwLjAwMSAxMC4yNCAyMC4wMDFMOCAyMC4wMDJaTTE0IDIwLjAwMlYxMUgxNkwxNy42OTIgMTcuNTk3VjExSDE5VjIwLjAwMUgxN0wxNS4zMSAxMy4zMzlWMjAuMDAxTDE0IDIwLjAwMlpNMjAuNDU1IDE5LjQxNUMyMC4xNTIgMTkuMDI0IDIwIDE4LjM4NiAyMCAxNy41MDRWMTcuMTYySDIxLjI4OFYxNy40MjJDMjEuMjgxIDE3Ljg0NCAyMS4zMzggMTguMTYgMjEuNDU4IDE4LjM3QzIxLjU3NiAxOC41ODEgMjEuNzU4IDE4LjY4NiAyMi4wMDEgMTguNjg2QzIyLjEwNzMgMTguNjkxNyAyMi4yMTMgMTguNjY4MSAyMi4zMDY4IDE4LjYxNzhDMjIuNDAwNiAxOC41Njc2IDIyLjQ3ODkgMTguNDkyNiAyMi41MzMgMTguNDAxQzIyLjY1MSAxOC4yMTEgMjIuNzA4IDE3LjkyNSAyMi43MDggMTcuNTQxQzIyLjcwOCAxNy4yNTYgMjIuNjM4IDE3LjAxMSAyMi40OTMgMTYuODAzQzIyLjM1MiAxNi41OTcgMjIuMTA0IDE2LjM3OCAyMS43NDggMTYuMTQ3QzIxLjEyOCAxNS43NDYgMjAuNjkzIDE1LjM1MyAyMC40NDcgMTQuOTYzQzIwLjE5OSAxNC41OCAyMC4wNzUgMTQuMTAzIDIwLjA3NSAxMy41MzNDMjAuMDc1IDEyLjY4NyAyMC4yNDEgMTIuMDUzIDIwLjU3MyAxMS42MzJDMjAuOTA3IDExLjIxMSAyMS40MDcgMTEgMjIuMDc1IDExQzIyLjc2MSAxMSAyMy4yNDUgMTEuMTk2IDIzLjUyOCAxMS41ODhDMjMuNzk1IDExLjk2IDIzLjkyNCAxMi41NTggMjMuOTIxIDEzLjM4NEwyMy45MjMgMTMuNTc2VjEzLjgzNkgyMi42MzVWMTMuNTc2QzIyLjY0MSAxMy4xMTQgMjIuNTk5IDEyLjc4OCAyMi41MDggMTIuNTk3QzIyLjQxOCAxMi40MDggMjIuMjYgMTIuMzEzIDIyLjAzNSAxMi4zMTNDMjEuOTM1NCAxMi4zMDc0IDIxLjgzNjEgMTIuMzI4OCAyMS43NDc3IDEyLjM3NTJDMjEuNjU5MyAxMi40MjE1IDIxLjU4NTEgMTIuNDkwOSAyMS41MzMgMTIuNTc2QzIxLjQyMSAxMi43NTIgMjEuMzY3IDEzLjAxNSAyMS4zNjcgMTMuMzY2QzIxLjM2NyAxMy42MzggMjEuNDMyIDEzLjg3MSAyMS41NjUgMTQuMDY2QzIxLjY5MyAxNC4yNiAyMS45MjMgMTQuNDYyIDIyLjI1MiAxNC42NzJDMjIuODk5IDE1LjA5NCAyMy4zNTIgMTUuNTA1IDIzLjYxMSAxNS45MDVDMjMuODcxIDE2LjMwNiAyNCAxNi43OTcgMjQgMTcuMzhDMjQgMTguMjU0IDIzLjgzMyAxOC45MSAyMy41MDEgMTkuMzQ1QzIzLjE2OCAxOS43ODEgMjIuNjY4IDE5Ljk5OSAyMiAxOS45OTlDMjEuMjcyIDE5Ljk5OSAyMC43NTYgMTkuODA0IDIwLjQ1NSAxOS40MTVaTTExLjEgMTguMjk1QzExLjI3NiAxOC4wNTggMTEuMzY1IDE3LjYwMiAxMS4zNjUgMTYuOTI2VjEzLjk1NEMxMS4zNjUgMTMuMzQ0IDExLjI2NyAxMi45MjUgMTEuMDY4IDEyLjY5NkMxMC44NzEgMTIuNDY2IDEwLjUwOCAxMi4zNTIgOS45OCAxMi4zNTJIOS42MzZWMTguNjQ4SDEwLjA2NkMxMC41NzcgMTguNjQ4IDEwLjkyMyAxOC41MyAxMS4xIDE4LjI5NlYxOC4yOTVaIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="264" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text0" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="DNS вне основной площадки" vertex="1">
+          <mxGeometry height="24" width="560" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text1" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Normal: API → primary ALB; TTL 60 с" vertex="1">
+          <mxGeometry height="24" width="560" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text2" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="После fencing + promotion: API → DR ingress" vertex="1">
+          <mxGeometry height="24" width="560" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="probes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="1200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-icon" parent="probes" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTkgMTBIOFYyMkgyNFYyMEg5VjEwWk0yMC41IDE1LjVMMTcgMTJMMTMuNSAxNS41TDEwIDEyVjE5SDI0VjEyTDIwLjUgMTUuNVoiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="164" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text0" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Внешний synthetic monitoring" vertex="1">
+          <mxGeometry height="24" width="360" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text1" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 точки РФ; probe каждые 30 с" vertex="1">
+          <mxGeometry height="24" width="360" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text2" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="/readyz + чтение + test transaction" vertex="1">
+          <mxGeometry height="24" width="360" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="primary-area" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="465" width="700" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="primary-area-text0" parent="primary-area" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Основная площадка · YC ru-central1" vertex="1">
+          <mxGeometry height="24" width="700" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-area" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="465" width="700" x="860" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-area-text0" parent="dr-area" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Резерв · отдельный провайдер / ЦОД РФ" vertex="1">
+          <mxGeometry height="24" width="700" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="620" x="80" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-icon" parent="main-app" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="294" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text0" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Региональный Kubernetes + ALB" vertex="1">
+          <mxGeometry height="24" width="620" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text1" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Обычно active: весь API-трафик" vertex="1">
+          <mxGeometry height="24" width="620" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text2" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 зоны; подробности на странице 01" vertex="1">
+          <mxGeometry height="24" width="620" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="620" x="900" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text0" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Независимый Kubernetes + HA ingress" vertex="1">
+          <mxGeometry height="24" width="620" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text1" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Warm: images, конфигурация, secrets готовы" vertex="1">
+          <mxGeometry height="24" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text2" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Достаточная ёмкость критичного API; gateway limits" vertex="1">
+          <mxGeometry height="24" width="620" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="80" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-icon" parent="main-pg" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTI0IDE1VjEzSDIyVjExQzIyIDEwLjQgMjEuNiAxMCAyMSAxMEgxOVY4SDE3VjEwSDE1VjhIMTNWMTBIMTFDMTAuNCAxMCAxMCAxMC40IDEwIDExVjEzSDhWMTVIMTBWMTdIOFYxOUgxMFYyMUMxMCAyMS42IDEwLjQgMjIgMTEgMjJIMTNWMjRIMTVWMjJIMTdWMjRIMTlWMjJIMjFDMjEuNiAyMiAyMiAyMS42IDIyIDIxVjE5SDI0VjE3SDIyVjE1SDI0Wk0xOSAxOUgxM1YxM0gxOVYxOVoiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="294" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text0" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="PostgreSQL / Patroni + etcd" vertex="1">
+          <mxGeometry height="24" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text1" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Primary + 2 replicas в 3 зонах" vertex="1">
+          <mxGeometry height="24" width="620" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text2" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="pgBackRest: WAL + base backups" vertex="1">
+          <mxGeometry height="24" width="620" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="900" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text0" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Patroni standby cluster + отдельный DCS" vertex="1">
+          <mxGeometry height="24" width="620" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text1" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 PostgreSQL VM; 3 etcd VM / fault domains" vertex="1">
+          <mxGeometry height="24" width="620" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text2" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Async physical WAL; standby_leader + replicas" vertex="1">
+          <mxGeometry height="24" width="620" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text3" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Контроль lag + replay LSN; promote только fenced" vertex="1">
+          <mxGeometry height="24" width="620" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="70" width="700" x="40" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note-text0" parent="dns-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Zone failover: DNS не меняется, ALB удаляет unhealthy targets." vertex="1">
+          <mxGeometry height="24" width="700" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note-text1" parent="dns-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Region failover: управляемая процедура, DNS меняется ПОСЛЕ promotion." vertex="1">
+          <mxGeometry height="24" width="700" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="70" width="700" x="860" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note-text0" parent="dr-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Резервный ЦОД вне Yandex Cloud; отдельный failure domain." vertex="1">
+          <mxGeometry height="24" width="700" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note-text1" parent="dr-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="DNS TTL — ориентир; старые соединения нужно переподключать." vertex="1">
+          <mxGeometry height="24" width="700" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="archive" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="40" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-icon" parent="archive" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMiA4QzIyIDcuNCAyMS42IDcgMjEgN0gxMUMxMC40IDcgMTAgNy40IDEwIDhWMTBIMjJWOFpNMjMgMTJDMjMgMTEuNCAyMi42IDExIDIyIDExSDEwQzkuNCAxMSA5IDExLjQgOSAxMlYxNEgyM1YxMlpNOSAxNUgyM0MyMy41IDE1IDI0IDE1LjQgMjQgMTZWMjJDMjQgMjIuNiAyMy42IDIzIDIzIDIzSDlDOC40IDIzIDggMjIuNiA4IDIyVjE2QzggMTUuNCA4LjQgMTUgOSAxNVpNMTQgMjBIMThDMTguNSAyMCAxOSAxOS41IDE5IDE5QzE5IDE4LjQgMTguNiAxOCAxOCAxOEgxNEMxMy40IDE4IDEzIDE4LjQgMTMgMTlDMTMgMTkuNiAxMy40IDIwIDE0IDIwWiIgZmlsbD0id2hpdGUiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="334" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text0" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Независимое S3-хранилище в РФ + резервная статика" vertex="1">
+          <mxGeometry height="24" width="700" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text1" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Immutable / versioned copy: backup + WAL + release assets" vertex="1">
+          <mxGeometry height="24" width="700" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text2" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Шифрование; доступ к ключам восстановления вне основной площадки" vertex="1">
+          <mxGeometry height="24" width="700" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text3" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="PITR на совместимую PostgreSQL major version" vertex="1">
+          <mxGeometry height="24" width="700" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="235" width="700" x="860" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text0" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="DR runbook · бюджет 45 минут" vertex="1">
+          <mxGeometry height="24" width="700" y="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text1" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="0–5: обнаружить и подтвердить отказ" vertex="1">
+          <mxGeometry height="24" width="700" y="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text2" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="5–15: изолировать старый primary / запретить записи" vertex="1">
+          <mxGeometry height="24" width="700" y="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text3" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="15–25: проверить replay и promote standby cluster" vertex="1">
+          <mxGeometry height="24" width="700" y="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text4" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="25–30: проверить API; переключить DNS" vertex="1">
+          <mxGeometry height="24" width="700" y="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text5" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="30–40: synthetic transaction / нагрузка / очереди" vertex="1">
+          <mxGeometry height="24" width="700" y="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text6" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="40–45: запас; failback отдельным change-процессом" vertex="1">
+          <mxGeometry height="24" width="700" y="176.5" as="geometry" />
+        </mxCell>
+        <mxCell id="limits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="40" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text0" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="RPO / условия соблюдения" vertex="1">
+          <mxGeometry height="24" width="700" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text1" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Обычно zone RPO=0 для ACK записей; цель zone RTO ≤ 5 мин" vertex="1">
+          <mxGeometry height="24" width="700" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text2" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Region: async lag ≤ 15 мин; при lag ≥ 5 мин — инцидент" vertex="1">
+          <mxGeometry height="24" width="700" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text3" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Не удаётся fence старую площадку → не promote: риск split-brain" vertex="1">
+          <mxGeometry height="24" width="700" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text4" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Backup-only restore проверяется отдельно: 45 мин не гарантировано" vertex="1">
+          <mxGeometry height="24" width="700" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="resolve" edge="1" parent="1" source="clients" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" target="dns" value="DNS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="normal" edge="1" parent="1" source="dns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.21428571428571427;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="main-app" value="Normal API / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="255" />
+              <mxPoint x="770" y="255" />
+              <mxPoint x="770" y="420" />
+              <mxPoint x="390" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="failover" edge="1" parent="1" source="dns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#c2410c;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.8035714285714286;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="dr-app" value="After fence + promote / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="255" />
+              <mxPoint x="800" y="255" />
+              <mxPoint x="800" y="420" />
+              <mxPoint x="1210" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="probe-main" edge="1" parent="1" source="probes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#16a34a;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.3333333333333333;exitY=1.0;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" target="main-app" value="HTTPS probe">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="355" />
+              <mxPoint x="720" y="355" />
+              <mxPoint x="720" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="probe-dr" edge="1" parent="1" source="probes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#16a34a;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.7222222222222222;exitY=1.0;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" target="dr-app" value="probe">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="240" />
+              <mxPoint x="1580" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="main-sql" edge="1" parent="1" source="main-app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="main-pg" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr-sql" edge="1" parent="1" source="dr-app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="dr-pg" value="SQL after promotion">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wal" edge="1" parent="1" source="main-pg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.46153846153846156;exitPerimeter=0;entryX=0.0;entryY=0.46153846153846156;entryPerimeter=0;" target="dr-pg" value="Async WAL&#xa;TLS / private tunnel">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="backup" edge="1" parent="1" source="main-pg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.3064516129032258;exitY=1.0;exitPerimeter=0;entryX=0.32857142857142857;entryY=0.0;entryPerimeter=0;" target="archive" value="Backup + continuous WAL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="restore" edge="1" parent="1" source="archive" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.9428571428571428;exitY=0.5;exitPerimeter=0;entryX=0.8870967741935484;entryY=1.0;entryPerimeter=0;" target="dr-pg" value="PITR fallback + independent WAL copy">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="965" />
+              <mxPoint x="800" y="850" />
+              <mxPoint x="1450" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="01 — Основная площадка" id="KGLP_mUoVwY4qCRB0Ucy">
+    <mxGraphModel dx="3372" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1640" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="02 — Резервная площадка и failover" id="XUk8qzFQhyGgXEJXWTWD">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="65" width="1520" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="title-text0" parent="title" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="InsureTech · отказ региона и восстановление" vertex="1">
+          <mxGeometry height="24" width="1520" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="title-text1" parent="title" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Резервная площадка в другом ЦОД РФ; постоянно работающий warm standby" vertex="1">
+          <mxGeometry height="24" width="1520" y="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="clients" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text0" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Браузер / B2B-клиент" vertex="1">
+          <mxGeometry height="24" width="360" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text1" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="API hostname остаётся прежним" vertex="1">
+          <mxGeometry height="24" width="360" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text2" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Idempotency-Key + retry с jitter" vertex="1">
+          <mxGeometry height="24" width="360" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="dns" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="560" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-icon" parent="dns" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAzMiAzMiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIj4mI3hhOzxyZWN0IGZpbGw9IiM1MjgyRkYiIHJ4PSIxNiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIi8+JiN4YTs8cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTggMjAuMDAyVjExSDEwLjE1QzExLjE3NSAxMSAxMS45MDcgMTEuMjI4IDEyLjM0MyAxMS42ODVDMTIuNzgxIDEyLjE0MyAxMyAxMi45MDcgMTMgMTMuOTc4VjE2LjQ5OEMxMy4wMDQgMTcuODUyIDEyLjgxMiAxOC43NzMgMTIuNDI1IDE5LjI2NEMxMi4wNCAxOS43NTQgMTEuMzExIDIwLjAwMSAxMC4yNCAyMC4wMDFMOCAyMC4wMDJaTTE0IDIwLjAwMlYxMUgxNkwxNy42OTIgMTcuNTk3VjExSDE5VjIwLjAwMUgxN0wxNS4zMSAxMy4zMzlWMjAuMDAxTDE0IDIwLjAwMlpNMjAuNDU1IDE5LjQxNUMyMC4xNTIgMTkuMDI0IDIwIDE4LjM4NiAyMCAxNy41MDRWMTcuMTYySDIxLjI4OFYxNy40MjJDMjEuMjgxIDE3Ljg0NCAyMS4zMzggMTguMTYgMjEuNDU4IDE4LjM3QzIxLjU3NiAxOC41ODEgMjEuNzU4IDE4LjY4NiAyMi4wMDEgMTguNjg2QzIyLjEwNzMgMTguNjkxNyAyMi4yMTMgMTguNjY4MSAyMi4zMDY4IDE4LjYxNzhDMjIuNDAwNiAxOC41Njc2IDIyLjQ3ODkgMTguNDkyNiAyMi41MzMgMTguNDAxQzIyLjY1MSAxOC4yMTEgMjIuNzA4IDE3LjkyNSAyMi43MDggMTcuNTQxQzIyLjcwOCAxNy4yNTYgMjIuNjM4IDE3LjAxMSAyMi40OTMgMTYuODAzQzIyLjM1MiAxNi41OTcgMjIuMTA0IDE2LjM3OCAyMS43NDggMTYuMTQ3QzIxLjEyOCAxNS43NDYgMjAuNjkzIDE1LjM1MyAyMC40NDcgMTQuOTYzQzIwLjE5OSAxNC41OCAyMC4wNzUgMTQuMTAzIDIwLjA3NSAxMy41MzNDMjAuMDc1IDEyLjY4NyAyMC4yNDEgMTIuMDUzIDIwLjU3MyAxMS42MzJDMjAuOTA3IDExLjIxMSAyMS40MDcgMTEgMjIuMDc1IDExQzIyLjc2MSAxMSAyMy4yNDUgMTEuMTk2IDIzLjUyOCAxMS41ODhDMjMuNzk1IDExLjk2IDIzLjkyNCAxMi41NTggMjMuOTIxIDEzLjM4NEwyMy45MjMgMTMuNTc2VjEzLjgzNkgyMi42MzVWMTMuNTc2QzIyLjY0MSAxMy4xMTQgMjIuNTk5IDEyLjc4OCAyMi41MDggMTIuNTk3QzIyLjQxOCAxMi40MDggMjIuMjYgMTIuMzEzIDIyLjAzNSAxMi4zMTNDMjEuOTM1NCAxMi4zMDc0IDIxLjgzNjEgMTIuMzI4OCAyMS43NDc3IDEyLjM3NTJDMjEuNjU5MyAxMi40MjE1IDIxLjU4NTEgMTIuNDkwOSAyMS41MzMgMTIuNTc2QzIxLjQyMSAxMi43NTIgMjEuMzY3IDEzLjAxNSAyMS4zNjcgMTMuMzY2QzIxLjM2NyAxMy42MzggMjEuNDMyIDEzLjg3MSAyMS41NjUgMTQuMDY2QzIxLjY5MyAxNC4yNiAyMS45MjMgMTQuNDYyIDIyLjI1MiAxNC42NzJDMjIuODk5IDE1LjA5NCAyMy4zNTIgMTUuNTA1IDIzLjYxMSAxNS45MDVDMjMuODcxIDE2LjMwNiAyNCAxNi43OTcgMjQgMTcuMzhDMjQgMTguMjU0IDIzLjgzMyAxOC45MSAyMy41MDEgMTkuMzQ1QzIzLjE2OCAxOS43ODEgMjIuNjY4IDE5Ljk5OSAyMiAxOS45OTlDMjEuMjcyIDE5Ljk5OSAyMC43NTYgMTkuODA0IDIwLjQ1NSAxOS40MTVaTTExLjEgMTguMjk1QzExLjI3NiAxOC4wNTggMTEuMzY1IDE3LjYwMiAxMS4zNjUgMTYuOTI2VjEzLjk1NEMxMS4zNjUgMTMuMzQ0IDExLjI2NyAxMi45MjUgMTEuMDY4IDEyLjY5NkMxMC44NzEgMTIuNDY2IDEwLjUwOCAxMi4zNTIgOS45OCAxMi4zNTJIOS42MzZWMTguNjQ4SDEwLjA2NkMxMC41NzcgMTguNjQ4IDEwLjkyMyAxOC41MyAxMS4xIDE4LjI5NlYxOC4yOTVaIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="264" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text0" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="DNS вне основной площадки" vertex="1">
+          <mxGeometry height="24" width="560" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text1" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Normal: API → primary ALB; TTL 60 с" vertex="1">
+          <mxGeometry height="24" width="560" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text2" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="После fencing + promotion: API → DR ingress" vertex="1">
+          <mxGeometry height="24" width="560" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="probes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="1200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-icon" parent="probes" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTkgMTBIOFYyMkgyNFYyMEg5VjEwWk0yMC41IDE1LjVMMTcgMTJMMTMuNSAxNS41TDEwIDEyVjE5SDI0VjEyTDIwLjUgMTUuNVoiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="164" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text0" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Внешний synthetic monitoring" vertex="1">
+          <mxGeometry height="24" width="360" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text1" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 точки РФ; probe каждые 30 с" vertex="1">
+          <mxGeometry height="24" width="360" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text2" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="/readyz + чтение + test transaction" vertex="1">
+          <mxGeometry height="24" width="360" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="primary-area" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="465" width="700" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="primary-area-text0" parent="primary-area" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Основная площадка · YC ru-central1" vertex="1">
+          <mxGeometry height="24" width="700" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-area" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="465" width="700" x="860" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-area-text0" parent="dr-area" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Резерв · отдельный провайдер / ЦОД РФ" vertex="1">
+          <mxGeometry height="24" width="700" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="620" x="80" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-icon" parent="main-app" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="294" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text0" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Региональный Kubernetes + ALB" vertex="1">
+          <mxGeometry height="24" width="620" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text1" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Обычно active: весь API-трафик" vertex="1">
+          <mxGeometry height="24" width="620" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text2" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 зоны; подробности на странице 01" vertex="1">
+          <mxGeometry height="24" width="620" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="620" x="900" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text0" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Независимый Kubernetes + HA ingress" vertex="1">
+          <mxGeometry height="24" width="620" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text1" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Warm: images, конфигурация, secrets готовы" vertex="1">
+          <mxGeometry height="24" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text2" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Достаточная ёмкость критичного API; gateway limits" vertex="1">
+          <mxGeometry height="24" width="620" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="80" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-icon" parent="main-pg" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTI0IDE1VjEzSDIyVjExQzIyIDEwLjQgMjEuNiAxMCAyMSAxMEgxOVY4SDE3VjEwSDE1VjhIMTNWMTBIMTFDMTAuNCAxMCAxMCAxMC40IDEwIDExVjEzSDhWMTVIMTBWMTdIOFYxOUgxMFYyMUMxMCAyMS42IDEwLjQgMjIgMTEgMjJIMTNWMjRIMTVWMjJIMTdWMjRIMTlWMjJIMjFDMjEuNiAyMiAyMiAyMS42IDIyIDIxVjE5SDI0VjE3SDIyVjE1SDI0Wk0xOSAxOUgxM1YxM0gxOVYxOVoiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="294" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text0" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="PostgreSQL / Patroni + etcd" vertex="1">
+          <mxGeometry height="24" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text1" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Primary + 2 replicas в 3 зонах" vertex="1">
+          <mxGeometry height="24" width="620" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text2" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="pgBackRest: WAL + base backups" vertex="1">
+          <mxGeometry height="24" width="620" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="900" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text0" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Patroni standby cluster + отдельный DCS" vertex="1">
+          <mxGeometry height="24" width="620" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text1" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 PostgreSQL VM; 3 etcd VM / fault domains" vertex="1">
+          <mxGeometry height="24" width="620" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text2" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Async physical WAL; standby_leader + replicas" vertex="1">
+          <mxGeometry height="24" width="620" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text3" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Контроль lag + replay LSN; promote только fenced" vertex="1">
+          <mxGeometry height="24" width="620" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="70" width="700" x="40" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note-text0" parent="dns-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Zone failover: DNS не меняется, ALB удаляет unhealthy targets." vertex="1">
+          <mxGeometry height="24" width="700" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note-text1" parent="dns-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Region failover: управляемая процедура, DNS меняется ПОСЛЕ promotion." vertex="1">
+          <mxGeometry height="24" width="700" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="70" width="700" x="860" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note-text0" parent="dr-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Резервный ЦОД вне Yandex Cloud; отдельный failure domain." vertex="1">
+          <mxGeometry height="24" width="700" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note-text1" parent="dr-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="DNS TTL — ориентир; старые соединения нужно переподключать." vertex="1">
+          <mxGeometry height="24" width="700" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="archive" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="40" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-icon" parent="archive" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMiA4QzIyIDcuNCAyMS42IDcgMjEgN0gxMUMxMC40IDcgMTAgNy40IDEwIDhWMTBIMjJWOFpNMjMgMTJDMjMgMTEuNCAyMi42IDExIDIyIDExSDEwQzkuNCAxMSA5IDExLjQgOSAxMlYxNEgyM1YxMlpNOSAxNUgyM0MyMy41IDE1IDI0IDE1LjQgMjQgMTZWMjJDMjQgMjIuNiAyMy42IDIzIDIzIDIzSDlDOC40IDIzIDggMjIuNiA4IDIyVjE2QzggMTUuNCA4LjQgMTUgOSAxNVpNMTQgMjBIMThDMTguNSAyMCAxOSAxOS41IDE5IDE5QzE5IDE4LjQgMTguNiAxOCAxOCAxOEgxNEMxMy40IDE4IDEzIDE4LjQgMTMgMTlDMTMgMTkuNiAxMy40IDIwIDE0IDIwWiIgZmlsbD0id2hpdGUiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="334" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text0" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Независимое S3-хранилище в РФ + резервная статика" vertex="1">
+          <mxGeometry height="24" width="700" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text1" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Immutable / versioned copy: backup + WAL + release assets" vertex="1">
+          <mxGeometry height="24" width="700" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text2" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Шифрование; доступ к ключам восстановления вне основной площадки" vertex="1">
+          <mxGeometry height="24" width="700" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text3" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="PITR на совместимую PostgreSQL major version" vertex="1">
+          <mxGeometry height="24" width="700" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="235" width="700" x="860" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text0" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="DR runbook · бюджет 45 минут" vertex="1">
+          <mxGeometry height="24" width="700" y="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text1" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="0–5: обнаружить и подтвердить отказ" vertex="1">
+          <mxGeometry height="24" width="700" y="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text2" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="5–15: изолировать старый primary / запретить записи" vertex="1">
+          <mxGeometry height="24" width="700" y="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text3" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="15–25: проверить replay и promote standby cluster" vertex="1">
+          <mxGeometry height="24" width="700" y="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text4" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="25–30: проверить API; переключить DNS" vertex="1">
+          <mxGeometry height="24" width="700" y="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text5" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="30–40: synthetic transaction / нагрузка / очереди" vertex="1">
+          <mxGeometry height="24" width="700" y="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text6" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="40–45: запас; failback отдельным change-процессом" vertex="1">
+          <mxGeometry height="24" width="700" y="176.5" as="geometry" />
+        </mxCell>
+        <mxCell id="limits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="40" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text0" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="RPO / условия соблюдения" vertex="1">
+          <mxGeometry height="24" width="700" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text1" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Обычно zone RPO=0 для ACK записей; цель zone RTO ≤ 5 мин" vertex="1">
+          <mxGeometry height="24" width="700" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text2" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Region: async lag ≤ 15 мин; при lag ≥ 5 мин — инцидент" vertex="1">
+          <mxGeometry height="24" width="700" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text3" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Не удаётся fence старую площадку → не promote: риск split-brain" vertex="1">
+          <mxGeometry height="24" width="700" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text4" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Backup-only restore проверяется отдельно: 45 мин не гарантировано" vertex="1">
+          <mxGeometry height="24" width="700" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="resolve" edge="1" parent="1" source="clients" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" target="dns" value="DNS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="normal" edge="1" parent="1" source="dns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.21428571428571427;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="main-app" value="Normal API / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="255" />
+              <mxPoint x="770" y="255" />
+              <mxPoint x="770" y="420" />
+              <mxPoint x="390" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="failover" edge="1" parent="1" source="dns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#c2410c;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.8035714285714286;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="dr-app" value="After fence + promote / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="255" />
+              <mxPoint x="800" y="255" />
+              <mxPoint x="800" y="420" />
+              <mxPoint x="1210" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="probe-main" edge="1" parent="1" source="probes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#16a34a;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.3333333333333333;exitY=1.0;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" target="main-app" value="HTTPS probe">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="355" />
+              <mxPoint x="720" y="355" />
+              <mxPoint x="720" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="probe-dr" edge="1" parent="1" source="probes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#16a34a;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.7222222222222222;exitY=1.0;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" target="dr-app" value="probe">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="240" />
+              <mxPoint x="1580" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="main-sql" edge="1" parent="1" source="main-app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="main-pg" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr-sql" edge="1" parent="1" source="dr-app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="dr-pg" value="SQL after promotion">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wal" edge="1" parent="1" source="main-pg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.46153846153846156;exitPerimeter=0;entryX=0.0;entryY=0.46153846153846156;entryPerimeter=0;" target="dr-pg" value="Async WAL&#xa;TLS / private tunnel">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="backup" edge="1" parent="1" source="main-pg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.3064516129032258;exitY=1.0;exitPerimeter=0;entryX=0.32857142857142857;entryY=0.0;entryPerimeter=0;" target="archive" value="Backup + continuous WAL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="restore" edge="1" parent="1" source="archive" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.9428571428571428;exitY=0.5;exitPerimeter=0;entryX=0.8870967741935484;entryY=1.0;entryPerimeter=0;" target="dr-pg" value="PITR fallback + independent WAL copy">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="965" />
+              <mxPoint x="800" y="850" />
+              <mxPoint x="1450" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="01 — Основная площадка" id="M7xYDqfqmhJKc3R29ufB">
+    <mxGraphModel dx="2763" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1640" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="65" width="1320" x="930" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-2" parent="IRXWjCziAOVqYFD9zTdw-1" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="InsureTech · технологическая архитектура to-be" vertex="1">
+          <mxGeometry height="24" width="1320" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-3" parent="IRXWjCziAOVqYFD9zTdw-1" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Доступность 99,9% · RTO ≤ 45 мин · RPO ≤ 15 мин" vertex="1">
+          <mxGeometry height="24" width="1320" y="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="105" width="280" x="930" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-5" parent="IRXWjCziAOVqYFD9zTdw-4" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Браузер / API-партнёр" vertex="1">
+          <mxGeometry height="24" width="280" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-6" parent="IRXWjCziAOVqYFD9zTdw-4" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="HTTPS" vertex="1">
+          <mxGeometry height="24" width="280" y="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="380" x="1330" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-8" parent="IRXWjCziAOVqYFD9zTdw-7" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMEMyNC44MzY2IDAgMzIgNy4xNjM0NCAzMiAxNkMzMiAyNC44MzY2IDI0LjgzNjYgMzIgMTYgMzJDNy4xNjM0NCAzMiAwIDI0LjgzNjYgMCAxNloiIGZpbGw9IiM1MjgyRkYiLz4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTIuMDA5OSAxN0gxOC45OTE5QzE4Ljg2MTkgMjEuMDY4IDE3LjE4MTkgMjQuMDAxIDE1LjUwMTkgMjQuMDAxQzEzLjgyNDkgMjQuMDAxIDEyLjEzODkgMjEuMDgxIDEyLjAwODkgMTcuMDAxTDEyLjAwOTkgMTdaTTguMDEyOTQgMTdIMTEuMDA4OUMxMS4wOTA5IDE5LjYyNyAxMS44MDg5IDIyLjA4MSAxMi45NjI5IDIzLjU2MUMxMS41OTAyIDIzLjA2NiAxMC4zOTEyIDIyLjE4MjEgOS41MTIyNyAyMS4wMTcyQzguNjMzMzEgMTkuODUyNCA4LjExMjM1IDE4LjQ1NjkgOC4wMTI5NCAxNy4wMDFWMTdaTTE5Ljk5MTkgMTdIMjIuOTgxOUMyMi43ODE5IDIwLjAyNyAyMC43Nzk5IDIyLjU2MSAxOC4wMzk5IDIzLjU2MUMxOS4xOTI5IDIyLjA2OCAxOS45MDk5IDE5LjYwMSAxOS45OTE5IDE3LjAwMVYxN1pNMTIuOTYxOSA5LjQzOTAyQzExLjgwNjkgMTAuOTE5IDExLjA5MDkgMTMuMzg2IDExLjAwODkgMTZIOC4wMTI5NEM4LjExMDE2IDE0LjU0MzQgOC42MzAyOCAxMy4xNDY4IDkuNTA5NTMgMTEuOTgxNEMxMC4zODg4IDEwLjgxNTkgMTEuNTg5IDkuOTMyNCAxMi45NjI5IDkuNDM5MDJIMTIuOTYxOVpNMTUuNDc5OSA4Ljk5OTAySDE1LjUyNjlDMTUuNjY3OSA4Ljk5OTAyIDE1LjgxMDkgOS4wMTIwMiAxNS45NTE5IDkuMDY2MDJDMTUuMzI4MyA5LjkxNjMyIDE0Ljk5NDYgMTAuOTQ0NiAxNC45OTk5IDExLjk5OUMxNC45OTk5IDEzLjYyNiAxNS43ODQ5IDE1LjA3OSAxNi45OTk5IDE2SDEyLjAwOTlDMTIuMTM4OSAxMS45MiAxMy44MTY5IDguOTk5MDIgMTUuNDc5OSA4Ljk5OTAyWk0xNS45OTk5IDExLjk5OUMxNS45OTk5IDkuNzg2MDIgMTcuNzkxOSA3Ljk5OTAyIDE5Ljk5OTkgNy45OTkwMkMyMi4yMDc5IDcuOTk5MDIgMjMuOTk5OSA5Ljc4NjAyIDIzLjk5OTkgMTEuOTk5QzIzLjk5OTkgMTQuMiAyMi4yMDc5IDE2IDE5Ljk5OTkgMTZDMTcuNzkxOSAxNiAxNS45OTk5IDE0LjIgMTUuOTk5OSAxMlYxMS45OTlaTTE5Ljg1MjkgMTMuMTczTDIxLjg1MjkgMTEuMTczQzIxLjk0NjcgMTEuMDc5MyAyMS45OTkzIDEwLjk1MjEgMjEuOTk5MyAxMC44MTk1QzIxLjk5OTMgMTAuNjg2OSAyMS45NDY3IDEwLjU1OTggMjEuODUyOSAxMC40NjZDMjEuODA3IDEwLjQxODYgMjEuNzUyIDEwLjM4MDkgMjEuNjkxMSAxMC4zNTUyQzIxLjYzMDMgMTAuMzI5NCAyMS41NjUgMTAuMzE2MSAyMS40OTg5IDEwLjMxNjFDMjEuNDMyOSAxMC4zMTYxIDIxLjM2NzUgMTAuMzI5NCAyMS4zMDY3IDEwLjM1NTJDMjEuMjQ1OSAxMC4zODA5IDIxLjE5MDkgMTAuNDE4NiAyMS4xNDQ5IDEwLjQ2NkwxOS40OTk5IDEyLjEwNkwxOC44NTI5IDExLjQ2NkMxOC44MDcgMTEuNDE4NiAxOC43NTIgMTEuMzgwOSAxOC42OTExIDExLjM1NTJDMTguNjMwMyAxMS4zMjk0IDE4LjU2NSAxMS4zMTYxIDE4LjQ5ODkgMTEuMzE2MUMxOC40MzI5IDExLjMxNjEgMTguMzY3NSAxMS4zMjk0IDE4LjMwNjcgMTEuMzU1MkMxOC4yNDU5IDExLjM4MDkgMTguMTkwOSAxMS40MTg2IDE4LjE0NDkgMTEuNDY2QzE4LjA1MTIgMTEuNTU5OCAxNy45OTg1IDExLjY4NjkgMTcuOTk4NSAxMS44MTk1QzE3Ljk5ODUgMTEuOTUyMSAxOC4wNTEyIDEyLjA3OTMgMTguMTQ0OSAxMi4xNzNMMTkuMTQ0OSAxMy4xNzNDMTkuMjQwOCAxMy4yNjMxIDE5LjM2NzQgMTMuMzEzMiAxOS40OTg5IDEzLjMxMzJDMTkuNjMwNSAxMy4zMTMyIDE5Ljc1NzEgMTMuMjYzMSAxOS44NTI5IDEzLjE3M1oiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="174" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-9" parent="IRXWjCziAOVqYFD9zTdw-7" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Yandex Cloud CDN" vertex="1">
+          <mxGeometry height="24" width="380" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-10" parent="IRXWjCziAOVqYFD9zTdw-7" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Статика с ближайшего edge" vertex="1">
+          <mxGeometry height="24" width="380" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-11" parent="IRXWjCziAOVqYFD9zTdw-7" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="ПДн и API не кэшируются" vertex="1">
+          <mxGeometry height="24" width="380" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="105" width="340" x="1910" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-13" parent="IRXWjCziAOVqYFD9zTdw-12" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMiA4QzIyIDcuNCAyMS42IDcgMjEgN0gxMUMxMC40IDcgMTAgNy40IDEwIDhWMTBIMjJWOFpNMjMgMTJDMjMgMTEuNCAyMi42IDExIDIyIDExSDEwQzkuNCAxMSA5IDExLjQgOSAxMlYxNEgyM1YxMlpNOSAxNUgyM0MyMy41IDE1IDI0IDE1LjQgMjQgMTZWMjJDMjQgMjIuNiAyMy42IDIzIDIzIDIzSDlDOC40IDIzIDggMjIuNiA4IDIyVjE2QzggMTUuNCA4LjQgMTUgOSAxNVpNMTQgMjBIMThDMTguNSAyMCAxOSAxOS41IDE5IDE5QzE5IDE4LjQgMTguNiAxOCAxOCAxOEgxNEMxMy40IDE4IDEzIDE4LjQgMTMgMTlDMTMgMTkuNiAxMy40IDIwIDE0IDIwWiIgZmlsbD0id2hpdGUiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="154" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-14" parent="IRXWjCziAOVqYFD9zTdw-12" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Object Storage" vertex="1">
+          <mxGeometry height="24" width="340" y="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-15" parent="IRXWjCziAOVqYFD9zTdw-12" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="React: HTML / JS / CSS" vertex="1">
+          <mxGeometry height="24" width="340" y="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="110" width="520" x="1330" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-17" parent="IRXWjCziAOVqYFD9zTdw-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Application Load Balancer" vertex="1">
+          <mxGeometry height="24" width="520" y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-18" parent="IRXWjCziAOVqYFD9zTdw-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="HTTPS → backend в 3 зонах" vertex="1">
+          <mxGeometry height="24" width="520" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-19" parent="IRXWjCziAOVqYFD9zTdw-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Health: GET /readyz, каждые 5 с" vertex="1">
+          <mxGeometry height="24" width="520" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-20" parent="IRXWjCziAOVqYFD9zTdw-16" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Failover: исключает unhealthy backend" vertex="1">
+          <mxGeometry height="24" width="520" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-21" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="450" width="400" x="930" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-22" parent="IRXWjCziAOVqYFD9zTdw-21" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Зона ru-central1-a" vertex="1">
+          <mxGeometry height="24" width="400" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="135" width="350" x="955" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-24" parent="IRXWjCziAOVqYFD9zTdw-23" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-25" parent="IRXWjCziAOVqYFD9zTdw-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Kubernetes · InsureTech" vertex="1">
+          <mxGeometry height="24" width="350" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-26" parent="IRXWjCziAOVqYFD9zTdw-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Реплики приложений + Ingress" vertex="1">
+          <mxGeometry height="24" width="350" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-27" parent="IRXWjCziAOVqYFD9zTdw-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Readiness / liveness probes" vertex="1">
+          <mxGeometry height="24" width="350" y="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-28" parent="IRXWjCziAOVqYFD9zTdw-23" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Service → готовые pod" vertex="1">
+          <mxGeometry height="24" width="350" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="350" x="955" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-30" parent="IRXWjCziAOVqYFD9zTdw-29" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyA4SDE4QzIxLjMgOCAyNCAxMC43IDI0IDE0VjI0SDIwVjIwSDIyVjE5SDE4LjZDMTUuNSAxOSAxMyAxNi41IDEzIDEzLjRWOFpNMTkgMTdIMjFWMTVIMTlWMTdaTTEyIDkuMDk5OThWMTMuNEMxMiAxNi44IDE0LjYgMTkuNyAxOCAyMC4xVjIwLjZDMTggMjIgMTUuOCAyMy4xIDEzIDIzLjFDMTAuMiAyMy4xIDggMjIgOCAyMC42VjExLjZDOCAxMC4zIDkuNyA5LjI5OTk4IDEyIDkuMDk5OThaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-31" parent="IRXWjCziAOVqYFD9zTdw-29" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Хост Managed PostgreSQL" vertex="1">
+          <mxGeometry height="24" width="350" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-32" parent="IRXWjCziAOVqYFD9zTdw-29" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Primary*" vertex="1">
+          <mxGeometry height="24" width="350" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-33" parent="IRXWjCziAOVqYFD9zTdw-29" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Отдельные схемы сервисов" vertex="1">
+          <mxGeometry height="24" width="350" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-34" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.11538461538461539;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-23" value="/readyz + HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="555" />
+              <mxPoint x="1130" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-35" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="450" width="400" x="1390" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-36" parent="IRXWjCziAOVqYFD9zTdw-35" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Зона ru-central1-b" vertex="1">
+          <mxGeometry height="24" width="400" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="135" width="350" x="1415" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-38" parent="IRXWjCziAOVqYFD9zTdw-37" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-39" parent="IRXWjCziAOVqYFD9zTdw-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Kubernetes · InsureTech" vertex="1">
+          <mxGeometry height="24" width="350" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-40" parent="IRXWjCziAOVqYFD9zTdw-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Реплики приложений + Ingress" vertex="1">
+          <mxGeometry height="24" width="350" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-41" parent="IRXWjCziAOVqYFD9zTdw-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Readiness / liveness probes" vertex="1">
+          <mxGeometry height="24" width="350" y="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-42" parent="IRXWjCziAOVqYFD9zTdw-37" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Service → готовые pod" vertex="1">
+          <mxGeometry height="24" width="350" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="350" x="1415" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-44" parent="IRXWjCziAOVqYFD9zTdw-43" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyA4SDE4QzIxLjMgOCAyNCAxMC43IDI0IDE0VjI0SDIwVjIwSDIyVjE5SDE4LjZDMTUuNSAxOSAxMyAxNi41IDEzIDEzLjRWOFpNMTkgMTdIMjFWMTVIMTlWMTdaTTEyIDkuMDk5OThWMTMuNEMxMiAxNi44IDE0LjYgMTkuNyAxOCAyMC4xVjIwLjZDMTggMjIgMTUuOCAyMy4xIDEzIDIzLjFDMTAuMiAyMy4xIDggMjIgOCAyMC42VjExLjZDOCAxMC4zIDkuNyA5LjI5OTk4IDEyIDkuMDk5OThaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-45" parent="IRXWjCziAOVqYFD9zTdw-43" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Хост Managed PostgreSQL" vertex="1">
+          <mxGeometry height="24" width="350" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-46" parent="IRXWjCziAOVqYFD9zTdw-43" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Standby" vertex="1">
+          <mxGeometry height="24" width="350" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-47" parent="IRXWjCziAOVqYFD9zTdw-43" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Отдельные схемы сервисов" vertex="1">
+          <mxGeometry height="24" width="350" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-48" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-37" value="/readyz + HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="555" />
+              <mxPoint x="1590" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-49" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="450" width="400" x="1850" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-50" parent="IRXWjCziAOVqYFD9zTdw-49" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Зона ru-central1-d" vertex="1">
+          <mxGeometry height="24" width="400" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="135" width="350" x="1875" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-52" parent="IRXWjCziAOVqYFD9zTdw-51" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-53" parent="IRXWjCziAOVqYFD9zTdw-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Kubernetes · InsureTech" vertex="1">
+          <mxGeometry height="24" width="350" y="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-54" parent="IRXWjCziAOVqYFD9zTdw-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Реплики приложений + Ingress" vertex="1">
+          <mxGeometry height="24" width="350" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-55" parent="IRXWjCziAOVqYFD9zTdw-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Readiness / liveness probes" vertex="1">
+          <mxGeometry height="24" width="350" y="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-56" parent="IRXWjCziAOVqYFD9zTdw-51" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Service → готовые pod" vertex="1">
+          <mxGeometry height="24" width="350" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="115" width="350" x="1875" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-58" parent="IRXWjCziAOVqYFD9zTdw-57" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMyA4SDE4QzIxLjMgOCAyNCAxMC43IDI0IDE0VjI0SDIwVjIwSDIyVjE5SDE4LjZDMTUuNSAxOSAxMyAxNi41IDEzIDEzLjRWOFpNMTkgMTdIMjFWMTVIMTlWMTdaTTEyIDkuMDk5OThWMTMuNEMxMiAxNi44IDE0LjYgMTkuNyAxOCAyMC4xVjIwLjZDMTggMjIgMTUuOCAyMy4xIDEzIDIzLjFDMTAuMiAyMy4xIDggMjIgOCAyMC42VjExLjZDOCAxMC4zIDkuNyA5LjI5OTk4IDEyIDkuMDk5OThaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="159" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-59" parent="IRXWjCziAOVqYFD9zTdw-57" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Хост Managed PostgreSQL" vertex="1">
+          <mxGeometry height="24" width="350" y="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-60" parent="IRXWjCziAOVqYFD9zTdw-57" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Standby" vertex="1">
+          <mxGeometry height="24" width="350" y="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-61" parent="IRXWjCziAOVqYFD9zTdw-57" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Отдельные схемы сервисов" vertex="1">
+          <mxGeometry height="24" width="350" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-62" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.8846153846153846;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-51" value="/readyz + HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="555" />
+              <mxPoint x="2050" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="40" width="1270" x="955" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-64" parent="IRXWjCziAOVqYFD9zTdw-63" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="SQL / TLS → единый writable endpoint БД; *primary автоматически переключается в здоровую зону" vertex="1">
+          <mxGeometry height="24" width="1270" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-65" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.1377952755905512;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-63" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-66" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-63" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-67" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.8622047244094488;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-63" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-68" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.1377952755905512;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-29" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-69" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.43478260869565216;exitPerimeter=0;entryX=0.0;entryY=0.43478260869565216;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-43" value="WAL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-70" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.8142857142857143;exitY=1.0;exitPerimeter=0;entryX=0.7285714285714285;entryY=1.0;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-57" value="WAL-репликация между зонами; контроль lag">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="1007" />
+              <mxPoint x="2130" y="1007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="175" width="400" x="930" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-72" parent="IRXWjCziAOVqYFD9zTdw-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Масштабирование и Kubernetes" vertex="1">
+          <mxGeometry height="24" width="400" y="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-73" parent="IRXWjCziAOVqYFD9zTdw-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="App: горизонтально (replicas + HPA)" vertex="1">
+          <mxGeometry height="24" width="400" y="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-74" parent="IRXWjCziAOVqYFD9zTdw-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="≥3 replicas; spread по зонам; PDB" vertex="1">
+          <mxGeometry height="24" width="400" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-75" parent="IRXWjCziAOVqYFD9zTdw-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Резерв мощности на отказ зоны" vertex="1">
+          <mxGeometry height="24" width="400" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-76" parent="IRXWjCziAOVqYFD9zTdw-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Один кластер: проще эксплуатация" vertex="1">
+          <mxGeometry height="24" width="400" y="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-77" parent="IRXWjCziAOVqYFD9zTdw-71" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="HA control plane в трёх зонах" vertex="1">
+          <mxGeometry height="24" width="400" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="175" width="400" x="1390" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-79" parent="IRXWjCziAOVqYFD9zTdw-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="БД: failover и восстановление" vertex="1">
+          <mxGeometry height="24" width="400" y="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-80" parent="IRXWjCziAOVqYFD9zTdw-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Health: доступность БД + replica lag" vertex="1">
+          <mxGeometry height="24" width="400" y="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-81" parent="IRXWjCziAOVqYFD9zTdw-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Ежедневный backup + WAL / PITR" vertex="1">
+          <mxGeometry height="24" width="400" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-82" parent="IRXWjCziAOVqYFD9zTdw-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Backup вне узлов кластера БД" vertex="1">
+          <mxGeometry height="24" width="400" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-83" parent="IRXWjCziAOVqYFD9zTdw-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="RPO: свежесть копии &lt;15 минут" vertex="1">
+          <mxGeometry height="24" width="400" y="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-84" parent="IRXWjCziAOVqYFD9zTdw-78" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Auto failover; RTO проверить учениями" vertex="1">
+          <mxGeometry height="24" width="400" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="175" width="400" x="1850" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-86" parent="IRXWjCziAOVqYFD9zTdw-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Решения по требованиям" vertex="1">
+          <mxGeometry height="24" width="400" y="14.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-87" parent="IRXWjCziAOVqYFD9zTdw-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="БД: вертикально; без шардов (50 GB)" vertex="1">
+          <mxGeometry height="24" width="400" y="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-88" parent="IRXWjCziAOVqYFD9zTdw-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="CDN сокращает региональные задержки" vertex="1">
+          <mxGeometry height="24" width="400" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-89" parent="IRXWjCziAOVqYFD9zTdw-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Точное равенство задержек невозможно" vertex="1">
+          <mxGeometry height="24" width="400" y="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-90" parent="IRXWjCziAOVqYFD9zTdw-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Цели проверяются отказом зоны" vertex="1">
+          <mxGeometry height="24" width="400" y="110.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-91" parent="IRXWjCziAOVqYFD9zTdw-85" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="и восстановлением из backup" vertex="1">
+          <mxGeometry height="24" width="400" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="40" width="1320" x="930" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-93" parent="IRXWjCziAOVqYFD9zTdw-92" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Область отказоустойчивости: узел / зона доступности. Отказ всего региона требует отдельного DR-проекта." vertex="1">
+          <mxGeometry height="24" width="1320" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-94" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.47619047619047616;exitPerimeter=0;entryX=0.0;entryY=0.43478260869565216;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-7" value="HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-95" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.43478260869565216;exitPerimeter=0;entryX=0.0;entryY=0.47619047619047616;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-12" value="cache miss → origin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRXWjCziAOVqYFD9zTdw-96" edge="1" parent="1" source="IRXWjCziAOVqYFD9zTdw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" target="IRXWjCziAOVqYFD9zTdw-16" value="API / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="02 — Резервная площадка и failover" id="eiRN3QxL8gbDGvmIktcl">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="65" width="1520" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="title-text0" parent="title" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="InsureTech · отказ региона и восстановление" vertex="1">
+          <mxGeometry height="24" width="1520" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="title-text1" parent="title" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Резервная площадка в другом ЦОД РФ; постоянно работающий warm standby" vertex="1">
+          <mxGeometry height="24" width="1520" y="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="clients" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text0" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Браузер / B2B-клиент" vertex="1">
+          <mxGeometry height="24" width="360" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text1" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="API hostname остаётся прежним" vertex="1">
+          <mxGeometry height="24" width="360" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="clients-text2" parent="clients" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Idempotency-Key + retry с jitter" vertex="1">
+          <mxGeometry height="24" width="360" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="dns" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="560" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-icon" parent="dns" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAzMiAzMiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIj4mI3hhOzxyZWN0IGZpbGw9IiM1MjgyRkYiIHJ4PSIxNiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIi8+JiN4YTs8cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTggMjAuMDAyVjExSDEwLjE1QzExLjE3NSAxMSAxMS45MDcgMTEuMjI4IDEyLjM0MyAxMS42ODVDMTIuNzgxIDEyLjE0MyAxMyAxMi45MDcgMTMgMTMuOTc4VjE2LjQ5OEMxMy4wMDQgMTcuODUyIDEyLjgxMiAxOC43NzMgMTIuNDI1IDE5LjI2NEMxMi4wNCAxOS43NTQgMTEuMzExIDIwLjAwMSAxMC4yNCAyMC4wMDFMOCAyMC4wMDJaTTE0IDIwLjAwMlYxMUgxNkwxNy42OTIgMTcuNTk3VjExSDE5VjIwLjAwMUgxN0wxNS4zMSAxMy4zMzlWMjAuMDAxTDE0IDIwLjAwMlpNMjAuNDU1IDE5LjQxNUMyMC4xNTIgMTkuMDI0IDIwIDE4LjM4NiAyMCAxNy41MDRWMTcuMTYySDIxLjI4OFYxNy40MjJDMjEuMjgxIDE3Ljg0NCAyMS4zMzggMTguMTYgMjEuNDU4IDE4LjM3QzIxLjU3NiAxOC41ODEgMjEuNzU4IDE4LjY4NiAyMi4wMDEgMTguNjg2QzIyLjEwNzMgMTguNjkxNyAyMi4yMTMgMTguNjY4MSAyMi4zMDY4IDE4LjYxNzhDMjIuNDAwNiAxOC41Njc2IDIyLjQ3ODkgMTguNDkyNiAyMi41MzMgMTguNDAxQzIyLjY1MSAxOC4yMTEgMjIuNzA4IDE3LjkyNSAyMi43MDggMTcuNTQxQzIyLjcwOCAxNy4yNTYgMjIuNjM4IDE3LjAxMSAyMi40OTMgMTYuODAzQzIyLjM1MiAxNi41OTcgMjIuMTA0IDE2LjM3OCAyMS43NDggMTYuMTQ3QzIxLjEyOCAxNS43NDYgMjAuNjkzIDE1LjM1MyAyMC40NDcgMTQuOTYzQzIwLjE5OSAxNC41OCAyMC4wNzUgMTQuMTAzIDIwLjA3NSAxMy41MzNDMjAuMDc1IDEyLjY4NyAyMC4yNDEgMTIuMDUzIDIwLjU3MyAxMS42MzJDMjAuOTA3IDExLjIxMSAyMS40MDcgMTEgMjIuMDc1IDExQzIyLjc2MSAxMSAyMy4yNDUgMTEuMTk2IDIzLjUyOCAxMS41ODhDMjMuNzk1IDExLjk2IDIzLjkyNCAxMi41NTggMjMuOTIxIDEzLjM4NEwyMy45MjMgMTMuNTc2VjEzLjgzNkgyMi42MzVWMTMuNTc2QzIyLjY0MSAxMy4xMTQgMjIuNTk5IDEyLjc4OCAyMi41MDggMTIuNTk3QzIyLjQxOCAxMi40MDggMjIuMjYgMTIuMzEzIDIyLjAzNSAxMi4zMTNDMjEuOTM1NCAxMi4zMDc0IDIxLjgzNjEgMTIuMzI4OCAyMS43NDc3IDEyLjM3NTJDMjEuNjU5MyAxMi40MjE1IDIxLjU4NTEgMTIuNDkwOSAyMS41MzMgMTIuNTc2QzIxLjQyMSAxMi43NTIgMjEuMzY3IDEzLjAxNSAyMS4zNjcgMTMuMzY2QzIxLjM2NyAxMy42MzggMjEuNDMyIDEzLjg3MSAyMS41NjUgMTQuMDY2QzIxLjY5MyAxNC4yNiAyMS45MjMgMTQuNDYyIDIyLjI1MiAxNC42NzJDMjIuODk5IDE1LjA5NCAyMy4zNTIgMTUuNTA1IDIzLjYxMSAxNS45MDVDMjMuODcxIDE2LjMwNiAyNCAxNi43OTcgMjQgMTcuMzhDMjQgMTguMjU0IDIzLjgzMyAxOC45MSAyMy41MDEgMTkuMzQ1QzIzLjE2OCAxOS43ODEgMjIuNjY4IDE5Ljk5OSAyMiAxOS45OTlDMjEuMjcyIDE5Ljk5OSAyMC43NTYgMTkuODA0IDIwLjQ1NSAxOS40MTVaTTExLjEgMTguMjk1QzExLjI3NiAxOC4wNTggMTEuMzY1IDE3LjYwMiAxMS4zNjUgMTYuOTI2VjEzLjk1NEMxMS4zNjUgMTMuMzQ0IDExLjI2NyAxMi45MjUgMTEuMDY4IDEyLjY5NkMxMC44NzEgMTIuNDY2IDEwLjUwOCAxMi4zNTIgOS45OCAxMi4zNTJIOS42MzZWMTguNjQ4SDEwLjA2NkMxMC41NzcgMTguNjQ4IDEwLjkyMyAxOC41MyAxMS4xIDE4LjI5NlYxOC4yOTVaIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="264" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text0" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="DNS вне основной площадки" vertex="1">
+          <mxGeometry height="24" width="560" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text1" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Normal: API → primary ALB; TTL 60 с" vertex="1">
+          <mxGeometry height="24" width="560" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-text2" parent="dns" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="После fencing + promotion: API → DR ingress" vertex="1">
+          <mxGeometry height="24" width="560" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="probes" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="360" x="1200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-icon" parent="probes" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTkgMTBIOFYyMkgyNFYyMEg5VjEwWk0yMC41IDE1LjVMMTcgMTJMMTMuNSAxNS41TDEwIDEyVjE5SDI0VjEyTDIwLjUgMTUuNVoiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="164" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text0" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Внешний synthetic monitoring" vertex="1">
+          <mxGeometry height="24" width="360" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text1" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 точки РФ; probe каждые 30 с" vertex="1">
+          <mxGeometry height="24" width="360" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="probes-text2" parent="probes" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="/readyz + чтение + test transaction" vertex="1">
+          <mxGeometry height="24" width="360" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="primary-area" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="465" width="700" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="primary-area-text0" parent="primary-area" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Основная площадка · YC ru-central1" vertex="1">
+          <mxGeometry height="24" width="700" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-area" parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#e3ebff;gradientColor=none;shape=stencil(vVNBDsIgEHwNRwxCjHqu+g9iaUtEaBa09fdSwdpi9dBDb8vOwOwsGcQyW/FaIEqsA3MRjcxdhdgBUSp1JUA6XyF2RCwrDIgSzE3n4VzzjtlVV3PvXmjDPdLdoOQRTrvtavNqnAKXw9mDELkBIhDJaxrJZIy/YRLfbjFvpcVgHHfS6JGu4lAK7GVwoXg5gmwjRP3VjoMpqQcm9tPKs0z0Y6crWcBHqt0PN8tJspXFfmNKdpaBH8tYwML/VPjiE6dCKhXSOMTT+PlWiC47PgE=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=20;spacingTop=15;" value="" vertex="1">
+          <mxGeometry height="465" width="700" x="860" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-area-text0" parent="dr-area" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=20;fontStyle=1;spacing=0;" value="Резерв · отдельный провайдер / ЦОД РФ" vertex="1">
+          <mxGeometry height="24" width="700" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="620" x="80" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-icon" parent="main-app" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTExLjk5NSAyNEw3LjAwMDk4IDE3LjczOEw4Ljc4MTk4IDkuOTI3TDE2IDYuNDUzTDIzLjIxOCA5LjkyOEwyNC45OTkgMTcuNzM5TDIwLjAwNSAyNEgxMS45OTVaTTIwIDEzLjE5NkwxNS45OTkgMTAuODk5TDEyIDEzLjE5NlYxOC4xTDE2IDIwLjQwMUwyMCAxOC4xVjEzLjE5NlpNMTguNzggMTMuODk2SDE4Ljc4N0wxNiAxNS40OTlMMTMuMjE0IDEzLjg5NUgxMy4yMTlMMTUuOTk5IDEyLjI5OUwxOC43OCAxMy44OTZaIiBmaWxsPSJ3aGl0ZSIvPiYjeGE7PC9zdmc+;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="294" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text0" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Региональный Kubernetes + ALB" vertex="1">
+          <mxGeometry height="24" width="620" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text1" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Обычно active: весь API-трафик" vertex="1">
+          <mxGeometry height="24" width="620" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="main-app-text2" parent="main-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 зоны; подробности на странице 01" vertex="1">
+          <mxGeometry height="24" width="620" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="120" width="620" x="900" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text0" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Независимый Kubernetes + HA ingress" vertex="1">
+          <mxGeometry height="24" width="620" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text1" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Warm: images, конфигурация, secrets готовы" vertex="1">
+          <mxGeometry height="24" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-app-text2" parent="dr-app" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Достаточная ёмкость критичного API; gateway limits" vertex="1">
+          <mxGeometry height="24" width="620" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="80" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-icon" parent="main-pg" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZD0iTTI0IDE1VjEzSDIyVjExQzIyIDEwLjQgMjEuNiAxMCAyMSAxMEgxOVY4SDE3VjEwSDE1VjhIMTNWMTBIMTFDMTAuNCAxMCAxMCAxMC40IDEwIDExVjEzSDhWMTVIMTBWMTdIOFYxOUgxMFYyMUMxMCAyMS42IDEwLjQgMjIgMTEgMjJIMTNWMjRIMTVWMjJIMTdWMjRIMTlWMjJIMjFDMjEuNiAyMiAyMiAyMS42IDIyIDIxVjE5SDI0VjE3SDIyVjE1SDI0Wk0xOSAxOUgxM1YxM0gxOVYxOVoiIGZpbGw9IndoaXRlIi8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="294" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text0" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="PostgreSQL / Patroni + etcd" vertex="1">
+          <mxGeometry height="24" width="620" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text1" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Primary + 2 replicas в 3 зонах" vertex="1">
+          <mxGeometry height="24" width="620" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="main-pg-text2" parent="main-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="pgBackRest: WAL + base backups" vertex="1">
+          <mxGeometry height="24" width="620" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="900" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text0" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Patroni standby cluster + отдельный DCS" vertex="1">
+          <mxGeometry height="24" width="620" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text1" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="3 PostgreSQL VM; 3 etcd VM / fault domains" vertex="1">
+          <mxGeometry height="24" width="620" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text2" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Async physical WAL; standby_leader + replicas" vertex="1">
+          <mxGeometry height="24" width="620" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-pg-text3" parent="dr-pg" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Контроль lag + replay LSN; promote только fenced" vertex="1">
+          <mxGeometry height="24" width="620" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="70" width="700" x="40" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note-text0" parent="dns-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Zone failover: DNS не меняется, ALB удаляет unhealthy targets." vertex="1">
+          <mxGeometry height="24" width="700" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-note-text1" parent="dns-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Region failover: управляемая процедура, DNS меняется ПОСЛЕ promotion." vertex="1">
+          <mxGeometry height="24" width="700" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="70" width="700" x="860" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note-text0" parent="dr-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Резервный ЦОД вне Yandex Cloud; отдельный failure domain." vertex="1">
+          <mxGeometry height="24" width="700" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dr-note-text1" parent="dr-note" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="DNS TTL — ориентир; старые соединения нужно переподключать." vertex="1">
+          <mxGeometry height="24" width="700" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="archive" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5282ff;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="40" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-icon" parent="archive" style="shape=image;imageAspect=1;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGQ9Ik0wIDE2QzAgNy4xNjM0NCA3LjE2MzQ0IDAgMTYgMFYwQzI0LjgzNjYgMCAzMiA3LjE2MzQ0IDMyIDE2VjE2QzMyIDI0LjgzNjYgMjQuODM2NiAzMiAxNiAzMlYzMkM3LjE2MzQ0IDMyIDAgMjQuODM2NiAwIDE2VjE2WiIgZmlsbD0iIzUyODJGRiIvPiYjeGE7PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMiA4QzIyIDcuNCAyMS42IDcgMjEgN0gxMUMxMC40IDcgMTAgNy40IDEwIDhWMTBIMjJWOFpNMjMgMTJDMjMgMTEuNCAyMi42IDExIDIyIDExSDEwQzkuNCAxMSA5IDExLjQgOSAxMlYxNEgyM1YxMlpNOSAxNUgyM0MyMy41IDE1IDI0IDE1LjQgMjQgMTZWMjJDMjQgMjIuNiAyMy42IDIzIDIzIDIzSDlDOC40IDIzIDggMjIuNiA4IDIyVjE2QzggMTUuNCA4LjQgMTUgOSAxNVpNMTQgMjBIMThDMTguNSAyMCAxOSAxOS41IDE5IDE5QzE5IDE4LjQgMTguNiAxOCAxOCAxOEgxNEMxMy40IDE4IDEzIDE4LjQgMTMgMTlDMTMgMTkuNiAxMy40IDIwIDE0IDIwWiIgZmlsbD0id2hpdGUiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="334" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text0" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="Независимое S3-хранилище в РФ + резервная статика" vertex="1">
+          <mxGeometry height="24" width="700" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text1" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Immutable / versioned copy: backup + WAL + release assets" vertex="1">
+          <mxGeometry height="24" width="700" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text2" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Шифрование; доступ к ключам восстановления вне основной площадки" vertex="1">
+          <mxGeometry height="24" width="700" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="archive-text3" parent="archive" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="PITR на совместимую PostgreSQL major version" vertex="1">
+          <mxGeometry height="24" width="700" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="235" width="700" x="860" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text0" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="DR runbook · бюджет 45 минут" vertex="1">
+          <mxGeometry height="24" width="700" y="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text1" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="0–5: обнаружить и подтвердить отказ" vertex="1">
+          <mxGeometry height="24" width="700" y="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text2" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="5–15: изолировать старый primary / запретить записи" vertex="1">
+          <mxGeometry height="24" width="700" y="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text3" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="15–25: проверить replay и promote standby cluster" vertex="1">
+          <mxGeometry height="24" width="700" y="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text4" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="25–30: проверить API; переключить DNS" vertex="1">
+          <mxGeometry height="24" width="700" y="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text5" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="30–40: synthetic transaction / нагрузка / очереди" vertex="1">
+          <mxGeometry height="24" width="700" y="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="runbook-text6" parent="runbook" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="40–45: запас; failback отдельным change-процессом" vertex="1">
+          <mxGeometry height="24" width="700" y="176.5" as="geometry" />
+        </mxCell>
+        <mxCell id="limits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2bf;strokeColor=#d6b656;fontColor=#172b4d;fontSize=17;spacing=12;" value="" vertex="1">
+          <mxGeometry height="130" width="700" x="40" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text0" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=1;spacing=0;" value="RPO / условия соблюдения" vertex="1">
+          <mxGeometry height="24" width="700" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text1" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Обычно zone RPO=0 для ACK записей; цель zone RTO ≤ 5 мин" vertex="1">
+          <mxGeometry height="24" width="700" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text2" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Region: async lag ≤ 15 мин; при lag ≥ 5 мин — инцидент" vertex="1">
+          <mxGeometry height="24" width="700" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text3" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Не удаётся fence старую площадку → не promote: риск split-brain" vertex="1">
+          <mxGeometry height="24" width="700" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="limits-text4" parent="limits" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=DejaVu Sans;fontColor=#172b4d;fontSize=17;fontStyle=0;spacing=0;" value="Backup-only restore проверяется отдельно: 45 мин не гарантировано" vertex="1">
+          <mxGeometry height="24" width="700" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="resolve" edge="1" parent="1" source="clients" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" target="dns" value="DNS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="normal" edge="1" parent="1" source="dns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.21428571428571427;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="main-app" value="Normal API / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="255" />
+              <mxPoint x="770" y="255" />
+              <mxPoint x="770" y="420" />
+              <mxPoint x="390" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="failover" edge="1" parent="1" source="dns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#c2410c;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.8035714285714286;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="dr-app" value="After fence + promote / HTTPS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="255" />
+              <mxPoint x="800" y="255" />
+              <mxPoint x="800" y="420" />
+              <mxPoint x="1210" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="probe-main" edge="1" parent="1" source="probes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#16a34a;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.3333333333333333;exitY=1.0;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" target="main-app" value="HTTPS probe">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="355" />
+              <mxPoint x="720" y="355" />
+              <mxPoint x="720" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="probe-dr" edge="1" parent="1" source="probes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#16a34a;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.7222222222222222;exitY=1.0;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" target="dr-app" value="probe">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="240" />
+              <mxPoint x="1580" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="main-sql" edge="1" parent="1" source="main-app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="main-pg" value="SQL / TLS">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dr-sql" edge="1" parent="1" source="dr-app" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#334155;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" target="dr-pg" value="SQL after promotion">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wal" edge="1" parent="1" source="main-pg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=1.0;exitY=0.46153846153846156;exitPerimeter=0;entryX=0.0;entryY=0.46153846153846156;entryPerimeter=0;" target="dr-pg" value="Async WAL&#xa;TLS / private tunnel">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="backup" edge="1" parent="1" source="main-pg" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;exitX=0.3064516129032258;exitY=1.0;exitPerimeter=0;entryX=0.32857142857142857;entryY=0.0;entryPerimeter=0;" target="archive" value="Backup + continuous WAL">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="restore" edge="1" parent="1" source="archive" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#2563eb;fontSize=15;labelBackgroundColor=#ffffff;dashed=1;exitX=0.9428571428571428;exitY=0.5;exitPerimeter=0;entryX=0.8870967741935484;entryY=1.0;entryPerimeter=0;" target="dr-pg" value="PITR fallback + independent WAL copy">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="965" />
+              <mxPoint x="800" y="850" />
+              <mxPoint x="1450" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
